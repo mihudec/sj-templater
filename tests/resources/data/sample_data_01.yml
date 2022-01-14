@@ -1,0 +1,6 @@
+common_config:
+  foo: bar
+hosts:
+  - name: One
+    foo: notbar
+  - name: Two
